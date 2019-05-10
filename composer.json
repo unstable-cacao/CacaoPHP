@@ -1,0 +1,14 @@
+{
+    "name": "unstable-cacao/cacao-php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marina Puchkov",
+            "email": "marinashers@gmail.com"
+        }
+    ],
+    "require": {
+        "oktopost/objection": "^1.0",
+        "unstable-cacao/traitor": "^1.0"
+    }
+}
