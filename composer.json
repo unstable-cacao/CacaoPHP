@@ -9,6 +9,8 @@
     ],
     "require": {
         "oktopost/objection": "^1.0",
-        "unstable-cacao/traitor": "^1.0"
+        "unstable-cacao/traitor": "^1.0",
+        "unstable-cacao/unix-socks": "^1.0",
+        "oktopost/jsonencode": "^1.0"
     }
 }
